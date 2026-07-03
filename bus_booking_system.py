@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 
 # Bus Ticket Booking System
 

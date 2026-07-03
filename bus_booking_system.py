@@ -39,7 +39,7 @@ class BusBookingSystem:
         self.CITIES = [
             "Ahmedabad", "Bangalore", "Bhopal", "Chandigarh", "Chennai", 
             "Delhi", "Goa", "Hyderabad", "Indore", "Jaipur", "Kochi", 
-            "Kolkata", "Lucknow", "Mumbai", "Patna", "Pune", "Surat"
+            "Kolkata", "Lucknow", "Mumbai", "Patna", "Pune", "Surat","Pune","Hinganghat","Nagpur"
         ]
         
         # Store currently active booking data dictionary
